@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1572543237 source:c:\users\melis\desktop\palindromo\main.c
+	<stdio.h>
+	<stdlib.h>
+
